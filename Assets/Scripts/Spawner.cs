@@ -37,4 +37,9 @@ public class Spawner : MonoBehaviour
     {
         return Random.Range(0, Monster.Length);
     }
+
+    //float ranXSpawn()
+    //{
+    //    return Random.Range(0, transform.position)
+    //}
 }
